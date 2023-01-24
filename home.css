@@ -1,0 +1,9 @@
+:root{
+    --container-color: #f8f8fa;
+}
+body{
+    background-color: var(--container-color);
+}
+.collapse {  
+    transition: height 0.01s; 
+}  
